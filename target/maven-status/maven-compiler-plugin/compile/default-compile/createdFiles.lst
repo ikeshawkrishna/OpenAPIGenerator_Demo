@@ -1,0 +1,7 @@
+com\open_api_generator_demo\org\generated\model\OrderItem.class
+com\open_api_generator_demo\org\generated\controller\ApiUtil.class
+com\open_api_generator_demo\org\generated\controller\ProductsApi.class
+com\open_api_generator_demo\org\generated\model\ErrorResponse.class
+com\open_api_generator_demo\org\generated\model\Order.class
+com\open_api_generator_demo\org\generated\model\Product.class
+com\open_api_generator_demo\org\generated\controller\OrdersApi.class
